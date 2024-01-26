@@ -49,7 +49,7 @@ const Fouter = () => {
                 <div className="contact-us">
                     <h4 className="mb-1">Source Code</h4>
 
-                    <a href="#" className="github">
+                    <a href="https://github.com/Bechirmahamat/bech-contentful" className="github">
                         Available on <BsGithub /> github
                     </a>
                     <h4 className="my-1">Contact Us</h4>
